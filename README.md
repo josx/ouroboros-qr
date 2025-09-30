@@ -2,7 +2,7 @@
 > [¿Qué es uroboro?](https://es.wikipedia.org/wiki/Ur%C3%B3boro), más info [Mito de Sísifo](https://es.wikipedia.org/wiki/S%C3%ADsifo)
 
 - **Este programa genera un QR de si mismo.**
-- Deformación de un [Quine](https://es.wikipedia.org/wiki/Quine_(programa)), con salid en QR
+- Deformación de un [Quine](https://es.wikipedia.org/wiki/Quine_(programa)), con salida en QR
 - Autoreferente e Idempotente
 
 ## Setup
