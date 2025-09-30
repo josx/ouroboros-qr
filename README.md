@@ -43,5 +43,5 @@ _GNU General Public License, GPLv3._
 ## Info del Autor
 
 Este repo fue creado en 2025 por
- [José Luis Di Biase](josx@interorganic.com.ar), cooperativa de trabajo
+ [José Luis Di Biase](https://github.com/josx), cooperativa de trabajo
  [Cambá](https://www.camba.coop/).
